@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "intelephense.environment.includePaths": [
+    "/Applications/MAMP/htdocs/engress/wp-content/plugins/advanced-custom-fields/includes"
+  ]
+}
